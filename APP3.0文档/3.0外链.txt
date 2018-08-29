@@ -1,0 +1,29 @@
+全球优选：https://lijia.qskjgz.com/app/index.php?i=2&c=entry&m=ewei_shopv2&do=mobile
+
+同城生活：https://xiupu.hrzupu.com/app/index.php?i=1&c=entry&m=weliam_merchant&p=dashboard&ac=home&do=index&invitid=3&areaid=520300&from=groupmessage
+
+我的资源：https://lijia.qskjgz.com/app/index.php?i=2&c=entry&blei=1&act=index&weid=2&do=shop&m=siyuan_cms
+
+国学院：50% 模块bug测试阶段  2018.7.5-2018.7.8
+
+华人文库：https://xiupu.hrzupu.com/app/./index.php?i=1&c=entry&eid=285
+
+艺术藏品：30%  2018.7.5-2018.7.8
+
+华人旅行：30%  2018.7.9-2018.7.11
+
+
+
+//////////////////////////////////////////////////////////////////////
+
+
+  3.0 原生开发进度时间预估：
+
+
+  4号 - 7号  -------------------------------   之前完成登录注册，忘记密码以及首页的所有内容
+
+  11号 - 18号 ------------------------------   完成 个人中心以及子页面的工作
+
+  21号 - 4号  ------------------------------   完成修谱以及谱书
+
+  4号  - 15号 ------------------------------   内部测试
